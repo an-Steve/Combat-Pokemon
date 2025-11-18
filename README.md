@@ -42,7 +42,8 @@ Le projet permet de :
 7. **Combat interactif Pokémon**  
    - L'utilisateur choisit 2 Pokémon parmi les 5 plus puissants et 5 plus faibles  
    - Combat simulé round par round  
-   - Déclaration du gagnant  
+   - Déclaration du gagnant
+Projet rélaisé par ANTON NELCON Steve  
 
 ---
 
