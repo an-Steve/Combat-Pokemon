@@ -1,4 +1,4 @@
-# 🏆 Projet Big Data : Analyse et Combat Pokémon 🏆
+# 🏆 Mini Projet Big Data : Analyse et Combat Pokémon 🏆
 
 <img width="371" height="215" alt="image" src="https://github.com/user-attachments/assets/45fb44f8-5473-46b0-ba34-19207e454a84" />
 
